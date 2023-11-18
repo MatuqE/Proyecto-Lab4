@@ -1,0 +1,7 @@
+activacion: en consola entrar en la carpeta env (creada cn el nombre qe le dimos, env por defecto)
+luego a la carpeta script y a activate (todo por consola) deberia qedar asi: ./env/Scripts/activate
+
+para desactivar el entorno solo hay qe poner deactivate ya qe ya estamos en la consola.
+
+para hacer andar el script hay qe tipear en la consola: python ./src/app.py  (la direccion del 
+script qe qieres correr)

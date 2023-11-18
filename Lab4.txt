@@ -1,0 +1,7 @@
+BotChat
+
+Clasificador de imágenes: Crea un modelo que pueda clasificar diferentes tipos de imágenes, como perros y gatos, flores o señales de tráfico.
+
+Reconocimiento de voz: Crea un sistema de reconocimiento de voz utilizando modelos de procesamiento de señales de audio para transcribir voz a texto.
+
+Juegos de IA: Crea un agente de inteligencia artificial que pueda jugar y aprender en juegos como ajedrez, Go o videojuegos clásicos.
